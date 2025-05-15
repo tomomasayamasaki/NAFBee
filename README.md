@@ -12,6 +12,9 @@ This is a benchmark for networks with a variety of activation functions. NAFBee 
 ![](https://img.shields.io/github/last-commit/tomomasayamasaki/NAFBee)
 ![](https://img.shields.io/github/languages/count/tomomasayamasaki/NAFBee)
 
+## 🟨 Download the paper
+https://ieeexplore.ieee.org/document/10959729
+
 ## 🟨 Requirement
 - python 3.x
 - PyTorch
