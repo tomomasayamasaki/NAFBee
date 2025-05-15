@@ -13,7 +13,9 @@ This is a benchmark for networks with a variety of activation functions. NAFBee 
 ![](https://img.shields.io/github/languages/count/tomomasayamasaki/NAFBee)
 
 ## 🟨 Download the paper
-https://ieeexplore.ieee.org/document/10959729
+[RBFleX-NAS: Training-Free Neural Architecture Search Using Radial Basis Function Kernel and Hyperparameter Detection](https://ieeexplore.ieee.org/document/10959729)  
+Tomomasa Yamasaki; Zhehui Wang; Tao Luo; Niangjun Chen; Bo Wang  
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 
 ## 🟨 Requirement
 - python 3.x
